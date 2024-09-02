@@ -13,6 +13,9 @@ This project is part of a Kaggle Data Science competition focused on predicting 
   - **Model Training**: Building and training the linear regression model using the processed data.
   - **Model Evaluation**: Assessing the model's performance using metrics such as RMSE (Root Mean Squared Error) and R².
   - **Prediction**: Generating predictions for the test dataset and preparing the submission file for the competition.
+ 
+## Datasets
+* Grab the datasets: train.csv, and test.csv from (https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
 ## Requirements
 
