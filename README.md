@@ -24,13 +24,13 @@ To run the notebook, you'll need the following Python libraries:
 - `seaborn`
 - `scikit-learn`
 
-These libraries can be installed using pip:
+**These libraries can be installed using pip**:
 
     ```bash
     pip install pandas numpy matplotlib seaborn scikit-learn
     ```
 
-**Set up a virtual requirement(Optional), and ensure Python is installed
+**Set up a virtual requirement(Optional), and ensure Python is installed**
 
 **Install the dependecies**: With virtual environment activated
 
